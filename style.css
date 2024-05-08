@@ -18,8 +18,22 @@ padding: 10px;
 text-align: right;
 }
 .calculator{
-    width: 35%;
+    width: 500px;
+    margin: auto;
 }
+.cal{
+    width:300px
+    
+}
+
+/* @media(max-width:650){
+    .calculator{
+    width: 60%;
+    margin: auto;
+    }
+    
+    
+} */
 .btn{
     width: 40px;
     height: 40px;
